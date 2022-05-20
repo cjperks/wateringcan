@@ -1,0 +1,6 @@
+#ignore SublimeText files
+*.sublime-project
+*.sublime-workspace
+
+#drawio backups
+*.bkp
